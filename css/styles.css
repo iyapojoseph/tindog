@@ -155,8 +155,7 @@ line-height: 1.5;}
 }
 
 @media (max-width: 1028px) {
-    [class*="col-"]{
-    width: 100%
+    
   }
   .tittle-image {
     position: static;
